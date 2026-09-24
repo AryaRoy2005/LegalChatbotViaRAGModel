@@ -3,14 +3,14 @@
 A full-stack Retrieval-Augmented Generation (RAG) application designed to query Indian Supreme Court case documents using natural language.
 
 ---
-## 💡 Why this project?
+##  Why this project?
 
 Legal documents are complex and difficult to search manually.  
 This project uses Retrieval-Augmented Generation (RAG) to enable precise, citation-backed answers from legal case documents.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Upload PDF legal documents
 * Automatic document parsing and chunking
@@ -22,7 +22,7 @@ This project uses Retrieval-Augmented Generation (RAG) to enable precise, citati
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -39,7 +39,7 @@ This project uses Retrieval-Augmented Generation (RAG) to enable precise, citati
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 project-root/
@@ -61,7 +61,7 @@ project-root/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone repository
 
@@ -94,7 +94,7 @@ GROQ_API_KEY=your_key
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 ### Start backend
 
@@ -112,7 +112,7 @@ frontend.html
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. Upload PDF documents
 2. Click **Build Index**
@@ -121,7 +121,7 @@ frontend.html
 
 ---
 
-## 📌 API Endpoints
+##  API Endpoints
 
 * `POST /api/upload` → Upload PDFs
 * `GET /api/documents` → List documents
@@ -132,7 +132,7 @@ frontend.html
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Only PDF files supported
 * Requires manual ingestion step
@@ -140,7 +140,7 @@ frontend.html
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Authentication system
 * Cloud deployment
